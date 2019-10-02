@@ -19,3 +19,11 @@
   <li>Boil more water</li>
   <li>Boil even more water</li>
 </ol>
+
+<p> To-do list:</p>
+
+<ul>
+  <li>Laundry</li>
+  <li>Shopping</li>
+  <li>Homework</li>
+</ul>

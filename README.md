@@ -12,11 +12,10 @@
 
 <hr>
 
-<p> Four things to boil</p>
+<p> Three things to boil:</p>
 
 <ol>
   <li>Boil the water</li>
   <li>Boil more water</li>
   <li>Boil even more water</li>
-  <li>Boil all the water</li>
 </ol>

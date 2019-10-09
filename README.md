@@ -2,28 +2,35 @@
   
 <p>This website is about English language, culture, and literature.</p>
 
-<h2>Bad Haiku</h2>
+<h1>Section 1</h1>
 
 <p>
-  rainwater falling<br>
-  this is a boring poem<br>
-  I watch it pour down<br>
+My name is Elise, I'm an associate student from the United States studying abroad here for one term. I go to Grinnell College in Iowa (think cornfields and caucuses), but I grew up just north of there in Minneapolis, Minnesota (think Lizzo, hockey, and Lutherans with vaguely Canadian accents). I am a Gender, Women's, and Sexuality Studies major, with a technology studies minor. Outside of my coursework, my main hobbies are theatre, travel, and journaling.
+
+<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=BlVCoQMytN62pUugWKPY"> Visit my QMplus Hub page</a>
 </p>
 
 <hr>
 
-<p> Three things to boil:</p>
-
-<ol>
-  <li>Boil the water</li>
-  <li>Boil more water</li>
-  <li>Boil even more water</li>
-</ol>
+<h1>Section 2</h1>
 
 <p> To-do list:</p>
 
 <ul>
-  <li>Laundry</li>
-  <li>Shopping</li>
-  <li>Homework</li>
+  <li>Write essay</li>
+  <li>Do some groceries</li>
+  <li>Plan for trip</li>
 </ul>
+
+<hr>
+
+<h1>Section 3</h1>
+
+<p>Three of my favorite things:</p>
+<ol>
+  <li>Raspberries</li>
+  <li>Mamma Mia</li>
+  <li>Comfortable boots</li>
+</ol>
+
+<hr>

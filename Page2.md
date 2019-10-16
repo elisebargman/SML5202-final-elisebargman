@@ -5,4 +5,4 @@
   <a href="Page3.html">Page 3</a>
 </p>
 
-<img src="https://commons.wikimedia.org/wiki/File:Peyto_Lake-Banff_NP-Canada.jpg#/media/File:Peyto_Lake-Banff_NP-Canada.jpg" style="width:60%;" />
+<img src="https://commons.wikimedia.org/wiki/File:Peyto_Lake-Banff_NP-Canada.jpg#/media/File:Peyto_Lake-Banff_NP-Canada.jpg" style="width:60%; margin-left:20%;" />

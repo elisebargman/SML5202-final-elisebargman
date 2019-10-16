@@ -2,8 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
-.page-header {
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+page-header {
     padding: 2.5rem 3rem;
 }
 .page-header {

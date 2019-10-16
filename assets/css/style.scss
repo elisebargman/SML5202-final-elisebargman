@@ -8,6 +8,13 @@ body {
 font-family: 'Roboto', sans-serif;
 }
 
+main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #3c40d6;
+}
+
 page-header {
     padding: 2.5rem 3rem;
 }

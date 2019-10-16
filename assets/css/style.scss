@@ -4,10 +4,13 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
 
+body {
+    font-family: 'Karla', sans-serif;
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-family: 'Karla', sans-serif;
     font-weight: normal;
     color: #573bcb;
 }

@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'jekyl-theme-cayman';
+@import "{{ site.theme }}";
 
 .page-header {
     padding: 2.5rem 3rem;

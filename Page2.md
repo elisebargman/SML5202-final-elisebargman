@@ -1,4 +1,4 @@
-<h1>pHTML Part 2 Homework</h1>
+<h1>HTML Part 2 Homework</h1>
 <br>
 <h3>Today is the 15<sup>th</sup> of October, 2019</h3>
 
@@ -44,3 +44,11 @@
     <td>come</td>
   </tr>
 </table>
+
+<br>
+<br>
+
+<li lang="es">¡Quiero bailár hasta la mañana!</li>
+
+<br>
+<br>

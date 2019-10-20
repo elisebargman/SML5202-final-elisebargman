@@ -1,16 +1,9 @@
 <h1>HTML Part 2 Homework</h1>
 <br>
 <h3>Today is the 15<sup>th</sup> of October, 2019</h3>
-
-
-<p>
-  <a href="index.html">Home</a> <br>
-  <a href="Page3.html">Page 3</a>
-</p>
-
+<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/1200px-Pose_lake_Minnesota.jpg" alt="Pose lake in Minnesota at sunset" style="width:60%; margin-left:20%;"/>
 
-<br>
 <br>
 
 <dl>
@@ -19,7 +12,6 @@
    <dt>Fell<dd>A fell is a high and barren landscape feature, such as a mountain range or moor-covered hills. The term is most often employed in Fennoscandia, the Isle of Man, parts of Northern England, and Scotland.</dd></dt>
 </dt>
 
-<br>
 <br>
 
 <table>
@@ -46,9 +38,13 @@
 </table>
 
 <br>
-<br>
 
 <li lang="es">¡Quiero bailár hasta la mañana!</li>
 
 <br>
 <br>
+
+<p>
+  <a href="index.html">Home</a> <br>
+  <a href="Page3.html">Page 3</a>
+</p>

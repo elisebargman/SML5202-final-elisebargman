@@ -7,7 +7,7 @@
   My paragraph of text goes here. After the image tag, but before the closing p tag.
   </p>
   
-<div> style="clear:both;"></div>
+<div>style="clear:both;"></div>
   
 <br>
 

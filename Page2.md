@@ -3,7 +3,7 @@
 <br>
 
 <p>
-<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/1200px-Pose_lake_Minnesota.jpg" alt="Pose lake in Minnesota at sunset" style="width:50%; border:5px crimson;"/>
+<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/1200px-Pose_lake_Minnesota.jpg" alt="Pose lake in Minnesota at sunset"/>
   My paragraph of text goes here. After the image tag, but before the closing p tag.
   </p>
 

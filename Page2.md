@@ -1,7 +1,11 @@
 <h1>HTML Part 2 Homework</h1>
 <h3>Today is the 15<sup>th</sup> of October, 2019</h3>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/1200px-Pose_lake_Minnesota.jpg" alt="Pose lake in Minnesota at sunset" style="width:60%; margin-left:20%;"/>
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/1200px-Pose_lake_Minnesota.jpg" alt="Pose lake in Minnesota at sunset" style="width:50%; border:5px crimson;"/>
+  My paragraph of text goes here. After the image tag, but before the closing p tag.
+  </p>
 
 <br>
 

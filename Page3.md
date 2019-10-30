@@ -1,12 +1,14 @@
 <h1>Page 3</h1>
 
+<h1>Random Idiom Using JSON</h1>
+
 <button type="button" class="new-quote button">Show Idiom</button>
  <dl id="quote"></dl>
-
+ 
 <script>
  //const endpoint = 'https://api.whatdoestrumpthink.com/api/v1/quotes/random';
  //const endpoint = 'https://api.quotable.io/random';
-const endpoint = 'https://elisebargman.github.io/SML5202-ebargman/datasets/idioms.json';
+const endpoint = 'https://martinbarge.github.io/sml5202-19-sts/datasets/idioms.json';
 
 function getQuote() {
 fetch(endpoint)
@@ -30,6 +32,9 @@ console.log("Error occurred");
 
 const newQuoteButton = document.querySelector('.new-quote');
 newQuoteButton.addEventListener('click', getQuote);
+
+</script>
+  
 
 <p>
   <a href="index.html">Home</a> <br>

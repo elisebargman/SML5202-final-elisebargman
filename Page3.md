@@ -34,7 +34,8 @@ const newQuoteButton = document.querySelector('.new-quote');
 newQuoteButton.addEventListener('click', getQuote);
 
 </script>
-  
+
+<hr>
 
 <p>
   <a href="index.html">Home</a> <br>

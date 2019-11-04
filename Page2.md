@@ -21,8 +21,6 @@
   <dt>Dale<dd>A dale is an open valley. Dale is a synonym to the word valley. It is used most frequently in the Lowlands of Scotland and in the North of England.</dd></dt>
    <dt>Fell<dd>A fell is a high and barren landscape feature, such as a mountain range or moor-covered hills. The term is most often employed in Fennoscandia, the Isle of Man, parts of Northern England, and Scotland.</dd></dt>
 
-<br>
-
 <h3>Verb Conjugation</h3>
 <table>
   <tr>
@@ -48,7 +46,7 @@
 </table>
 
 <br>
-<h3>Some Spanish</h3>
+<h3>A little bit of Spanish</h3>
 <li lang="es">¡Quiero bailár hasta la mañana!</li>
 
 <br>

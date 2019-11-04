@@ -14,17 +14,16 @@
       (Text adapted from the Wikipedia entry on Minnesota)</p>
   </div>
   </div>
-  
-<br>
 
+<h3>Three geography terms</h3>
 <dl>
   <dt>Tarn<dd>A tarn is a mountain lake, pond or pool, formed in a cirque excavated by a glacier. A moraine may form a natural dam below a tarn.</dd></dt>
   <dt>Dale<dd>A dale is an open valley. Dale is a synonym to the word valley. It is used most frequently in the Lowlands of Scotland and in the North of England.</dd></dt>
    <dt>Fell<dd>A fell is a high and barren landscape feature, such as a mountain range or moor-covered hills. The term is most often employed in Fennoscandia, the Isle of Man, parts of Northern England, and Scotland.</dd></dt>
-</dt>
 
 <br>
 
+<h3>Verb Conjugation</h3>
 <table>
   <tr>
     <th>Infinitive</th>
@@ -49,7 +48,7 @@
 </table>
 
 <br>
-
+<h3>Some Spanish</h3>
 <li lang="es">¡Quiero bailár hasta la mañana!</li>
 
 <br>

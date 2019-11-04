@@ -13,14 +13,7 @@
     <p>Minnesota is a state in the Upper Midwest, Great Lakes, and northern regions of the United States. Minnesota was admitted as the 32nd U.S. state on May 11, 1858, created from the eastern half of the Minnesota Territory. The state has many lakes, and is known as the "Land of 10,000 Lakes". Its official motto is L'Étoile du Nord (French: Star of the North).
       (Text adapted from the Wikipedia entry on Minnesota)</p>
   </div>
-
-
-<p>
-<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/1200px-Pose_lake_Minnesota.jpg" alt="Pose lake in Minnesota at sunset"/>
-  My paragraph of text goes here. After the image tag, but before the closing p tag.
-  </p>
-  
-<div>style="clear:both;"></div>
+  </div>
   
 <br>
 

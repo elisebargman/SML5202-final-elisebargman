@@ -45,7 +45,6 @@
   </tr>
 </table>
 
-<br>
 <h3>A little bit of Spanish</h3>
 <li lang="es">¡Quiero bailár hasta la mañana!</li>
 

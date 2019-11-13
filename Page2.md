@@ -50,8 +50,3 @@
 
 <br>
 <br>
-
-<p>
-  <a href="index.html">Home</a> <br>
-  <a href="Page3.html">Page 3</a>
-</p>

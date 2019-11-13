@@ -36,8 +36,3 @@ newQuoteButton.addEventListener('click', getQuote);
 </script>
 
 <hr>
-
-<p>
-  <a href="index.html">Home</a> <br>
-  <a href="Page2.html">Page2</a>
-</p>

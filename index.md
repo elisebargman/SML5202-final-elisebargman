@@ -34,8 +34,3 @@ My name is Elise, I'm an associate student from the United States studying abroa
 </ol>
 
 <hr>
-
-<p>
-  <a href="Page2.html">Page2</a> <br>
-  <a href="Page3.html">Page3</a>
-</p>

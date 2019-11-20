@@ -14,5 +14,5 @@
 <h3>Audio Embed Practice</h3>
 <audio controls>
   <source src = "https://elisebargman.github.io/SML5202-ebargman/assets/elabrigo.wav" type="audio/wave">
-  Your browser does not support the audio element
+  Your browser does not support the audio element.
   </audio>

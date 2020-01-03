@@ -19,5 +19,5 @@
 
 <h2>Statement of accessibility</h2>
 <p> 
-  Accessibility Accessibility
+  Accessibility Accessibility Accessibility
 <p>

@@ -4,9 +4,9 @@
 
 <h1>Section 1</h1>
 
-<p>
-  
 <script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<p>
   
 My name is Elise, I'm an associate student from the United States studying abroad here for one term. I go to Grinnell College in Iowa (think cornfields and caucuses), but I grew up just north of there in Minneapolis, Minnesota (think Lizzo, hockey, and Lutherans with vaguely Canadian accents). I am a Gender, Women's, and Sexuality Studies major, with a technology studies minor. Outside of my coursework, my main hobbies are theatre, travel, and journaling.
 

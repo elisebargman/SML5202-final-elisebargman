@@ -18,5 +18,5 @@
 
 <h2>Statement of accessibility</h2>
 <p> 
-  Accessibility
+This website was tested for accessibility using WAVE (the Website Accessibility Evaluation Tool)
 <p>

@@ -74,3 +74,138 @@ page-header {
     }
 }
 
+/** Wikipedia Search Styles **/
+
+*, *::before, *::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.searchForm-container {
+  width: 100%;
+  height: 100px;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.15);
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.searchForm {
+  margin-left: 30px;
+  display: flex;
+  background-color: #292929;
+  border: 1px solid #242424;
+  border-radius: 4px;
+}
+
+.searchForm-input {
+  background-color: #f0f0f5;
+  border: none;
+  height: 44px;
+  width: 550px;
+  padding: 5px 10px;
+  color: #292929;
+}
+
+.icon {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  border: none;
+  background-color: #292929;
+}
+
+.icon:hover {
+  background-color: #1f1f1f;
+}
+
+.icon img {
+  width: 22px;
+  height: 22px;
+}
+
+.searchResults {
+  padding: 20px 0 50px;
+  margin-left: 140px;
+  margin-top: 2px;
+  width: 550px;
+  text-align: left;
+  background-color: white;
+}
+
+.resultItem {
+  opacity: 0;
+  margin-bottom: 20px;
+  animation: show 0.5s forwards ease-in-out;
+  color: #292929;
+  border-radius: 2px;
+  padding: 10px;
+  width: 100%;
+}
+
+
+.resultItem:hover {
+  background-color: aliceblue;
+}
+
+.resultItem-title {
+  margin-bottom: 4px;
+}
+
+.resultItem-title a {
+  color: black;
+  text-decoration: none;
+}
+
+.resultItem-title a:hover {
+  text-decoration: underline;
+}
+
+.resultItem-snippet, .resultItem-link {
+  color: darkSlateGray;
+  font-size: 13px;
+}
+
+@keyframes show {
+  0% {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+@media screen and (max-width: 750px) {
+
+  .searchForm-container {
+    padding: 20px 0 20px;
+    height: auto;
+    justify-content: space-between;  
+    flex-direction: column;
+  }
+
+  .searchForm {
+    margin: 20px auto 0;
+  }
+
+  .searchForm-input {
+    width: 300px;
+  }
+
+  .searchResults {
+    width: 388px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* End Wikipedia Search Styles */

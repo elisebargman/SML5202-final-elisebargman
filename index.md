@@ -8,7 +8,7 @@
   <div class="column">
     <p>This website is designed as a short, intermediate-level refresher to the Spanish language, with a focus on Latin American dialects. In particular, it is designed for native English speakers who studied Spanish in school, but now need help recalling everyday words and phrases due to a period of disuse.
       
-This site will include a range of multimedia activities to help you become familiar with Latin American Spanish dialects (see left), recall key grammatical rules, practice pronouncing numbers, and improve your Spanish reading comprehension skills. On the final page, we’ve also included some good resources, such as translation tools and language learning applications. The final page also includes media recommendations in Spanish, including popular magazines and a news podcast, to help you further practice your listening & reading comprehension skills on your own terms.</p>
+This site will include a range of multimedia activities to help you become familiar with Latin American Spanish dialects (see left), recall key grammatical rules, practice pronouncing numbers, and improve your Spanish reading comprehension skills. On the final page, we’ve also included some good resources, such as online translation tools and well-reviewed language learning applications. The final page also includes media recommendations in Spanish, including popular magazines translated from English (such as <i>People</i> and <i>National Geographic</i>), and a news podcast designed specifically for Spanish language learners, to help you further practice your listening & reading comprehension skills on your own terms.</p>
   </div>
   </div>
 

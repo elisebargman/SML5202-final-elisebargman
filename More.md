@@ -3,6 +3,19 @@
 
 <p>This page is designed to send you on your way with all the resources you'll need to continue your language learning journey, including translation tools, top-rated language learning apps, and media recommendations to immerse yourself in the language and culture.</p>
 
+<section>
+	<h3>Seven fun ways to continue practicing your Spanish:</h3>
+<ol>
+	<li>Find a <a href="https://www.fluentin3months.com/pen-pals/">language-learning pen pal</a></li>
+	<li>Stay up-to-date with Latin Americannewspapers, like <a href="https://www.univision.com">Univision</a> and <a href="https://www.eltiempo.com/">El Tiempo</a></strong></li>
+	<li>Use a <a href="https://www.cnet.com/news/best-language-learning-apps-become%20fluent/">well-reviewed</a> mobile language learning app, such as <a href="https://www.duolingo.com/">Duolinguo</a>, <a href="https://www.babbel.com/">Babbel</a>, or <a href="https://www.memrise.com/">Memrise</a></li>
+	<li>Listen to the <a href="https://www.newsinslowspanish.com/spanish-podcast">News in Slow Spanish</a> podcast on <a href="https://open.spotify.com/show/3DfaUnQ6qypI0qK7tGhp4A">Spotify</a></li>
+	<li>Read the Spanish versions of your favorite magazines, like <a href="https://www.ngenespanol.com/">National Geographic</a> and <a href="https://www.seventeenenespanol.com/">Seventeen</a></li>
+	<li>Watch some great Spanish television, <a href="https://spanishlandschool.com/best-spanish-tv-shows/">written with language learners in mind</a></li>
+	<li>Go down a "Wikipedia en Español" rabbit hole... see below to get started!</li>
+</ol>
+</section>
+
 <ul>
   Resources:
   <li><a href="https://translate.google.com/">Google Translate</a></li>
@@ -22,7 +35,7 @@
   <li><a href="https://studyspanish.com/typing-spanish-accents">Typing the Spanish alphabet</a></li>
 </ol>
   
-
+<p>
   
 Explore:
 https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol
@@ -141,5 +154,4 @@ form.addEventListener('submit', handleSubmit);
 <div style="clear:both;"></div>
 <div>
 	<p style="font-size: 86%;">Credit: The code for this application is derived from an excellent online tutorial by Ayooluwa Isaiah, a Web Technologies Software Developer based in Lagos, Nigeria. The tutorial can be followed <a href="https://freshman.tech/wikipedia-javascript/">here</a>.</p></div>
-
 

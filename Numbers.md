@@ -5,12 +5,17 @@
 <ol>
  <li>Study up on the pattern using any/all of the following sources:
   <ul>
-   <li>hhhh</li>
-   <li>bbbb</li>
+   <li><a href="https://www.fluentin3months.com/spanish-numbers/">Fluent in 3 Months</a></li>
+   <li><a href="https://www.mezzoguild.com/spanish-numbers/">The Mezzofanti Guild</a></li>
+   <li><a href="https://spanishnumbers.guide/numbers-in-spanish.html">Spanish Numbers Guide</a></li>
+   <li><a href="https://www.youtube.com/watch?v=iVyUMBmfDiY">Butterfly Spanish (video)</a></li>
+   <li>My video below</li>
   </ul>
  </li>
  <li>jjjjj</li>
 </ol>
+
+
 
 <button type="button" class="new-quote button">New Number</button>
  <dl id="quote"></dl>

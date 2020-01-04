@@ -12,41 +12,18 @@
    <li>My video below</li>
   </ul>
  </li>
- <li>Practice your audio comprehension of the numbers with the </li>
+ <li>Practice your audio comprehension of numbers with the Number Writing activity</li>
+ <li>Practice your spoken pronunciation of numbers with the Saying Numbers activity</li>
 </ol>
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Psvj8s4_yHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<button type="button" class="new-quote button">New Number</button>
- <dl id="quote"></dl>
- 
-<script>
-const endpoint = 'https://elisebargman.github.io/SML5202-ebargman/datasets/idioms.json';
+<h3>Number Writing</h3>
+<iframe src="https://h5p.org/h5p/embed/689524" width="1090" height="842" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-function getQuote() {
-fetch(endpoint)
-.then(function (response) {
-return response.json();
-})
-.then(function(data){
-let id = Math.floor(Math.random() * 5);
-let idiom = (data.idioms[id].idiom);
-let meaning = (data.idioms[id].meaning);
-let example = (data.idioms[id].example);
+<h3>Saying Numbers</h3>
 
-document.querySelector("#quote").innerHTML = "<dt>" + idiom + "</dt>" + "<dd><strong>Example:</strong> " + example + "</dd><dd><strong>Meaning:</strong> " + meaning + "</dd>" ;
 
-//console.log(data.idioms[id].idiom)
-})
-.catch(function () {
-console.log("Error occurred");
-});
-}
-
-const newQuoteButton = document.querySelector('.new-quote');
-newQuoteButton.addEventListener('click', getQuote);
-
-</script>
 
 <hr>

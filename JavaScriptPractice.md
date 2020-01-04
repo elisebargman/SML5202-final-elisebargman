@@ -1,4 +1,4 @@
-<h2>Javascript practice!</h2>
+<h2>JavaScript Practice</h2>
 
 <p>Your name: <input type:"text" id="name">
 <button onclick="sayHello()">Submit</button>

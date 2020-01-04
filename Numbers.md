@@ -14,8 +14,8 @@
  </li>
  <li>jjjjj</li>
 </ol>
-
-
+<br>
+<video src="https://youtu.be/Psvj8s4_yHk" poster="Screen Shot 2020-01-03 at 9.10.47 PM.png" width="320" height="200" controls preload></video>
 
 <button type="button" class="new-quote button">New Number</button>
  <dl id="quote"></dl>

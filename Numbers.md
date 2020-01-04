@@ -1,13 +1,21 @@
-<h1>Page 3</h1>
+<h1>Saying numbers in Spanish</h1>
 
-<h1>Random Idiom Using JSON</h1>
+<p>Just like in English, the pattern for saying numbers out loud in Spanish isn't entirely logical, but it is predictable. Here's how to learn the pattern:</p>
 
-<button type="button" class="new-quote button">Show Idiom</button>
+<ol>
+ <li>Study up on the pattern using any/all of the following sources:
+  <ul>
+   <li>hhhh</li>
+   <li>bbbb</li>
+  </ul>
+ </li>
+ <li>jjjjj</li>
+</ol>
+
+<button type="button" class="new-quote button">New Number</button>
  <dl id="quote"></dl>
  
 <script>
- //const endpoint = 'https://api.whatdoestrumpthink.com/api/v1/quotes/random';
- //const endpoint = 'https://api.quotable.io/random';
 const endpoint = 'https://elisebargman.github.io/SML5202-ebargman/datasets/idioms.json';
 
 function getQuote() {

@@ -25,6 +25,9 @@
 <h3>Saying Numbers</h3>
 <p> Click the buttons for the ranges of numbers that you need to practice with, and then try saying them out loud</p>
 
+<button onclick="document.getElementById('demo4').innerHTML = getRndInteger(1800,2100)">Years</button>
+<p id="demo4"></p>
+
 <button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,20)">0 to 20</button>
 <p id="demo"></p>
 
@@ -36,9 +39,6 @@
 
 <button onclick="document.getElementById('demo3').innerHTML = getRndInteger(1000,1000000000)">1,000 to 1,000,000,000</button>
 <p id="demo3"></p>
-
-<button onclick="document.getElementById('demo4').innerHTML = getRndInteger(1800,2100)">Years</button>
-<p id="demo4"></p>
 
 <button onclick="document.getElementById('demo5').innerHTML = getRndInteger(1000000000,100000000000000)">Extreme Challenge Mode: "Billions" and "Trillions"?</button>
 <p id="demo5"></p>

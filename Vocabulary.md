@@ -2,19 +2,6 @@
 <h3>Here is an expandable list of the most important words and phrases in Spanish, for your review and reference. This list was adapted directly from an article titled <a href="https://www.mosalingua.com/en/spanish-vocabulary-lists-by-topic/#basic-spanish-vocabulary-greetings"> Spanish Vocabulary Lists by Topic</a> by the language learning website MosaLingua </h3>
 <br>
 
-
-<div class="row">
-  <div class="column">
-    <h2>Photograph of Minnesota sunset</h2>
-    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pose_lake_Minnesota.jpg/1200px-Pose_lake_Minnesota.jpg" alt="Pose lake in Minnesota at sunset"/></p>
-  </div>
-  <div class="column">
-    <h2> About Minnesota</h2>
-    <p>Minnesota is a state in the Upper Midwest, Great Lakes, and northern regions of the United States. Minnesota was admitted as the 32nd U.S. state on May 11, 1858, created from the eastern half of the Minnesota Territory. The state has many lakes, and is known as the "Land of 10,000 Lakes". Its official motto is L'Étoile du Nord (French: Star of the North).
-      (Text adapted from the Wikipedia entry on Minnesota)</p>
-  </div>
-  </div>
-
 <h3>Three geography terms</h3>
 <dl>
   <dt>Tarn<dd>A tarn is a mountain lake, pond or pool, formed in a cirque excavated by a glacier. A moraine may form a natural dam below a tarn.</dd></dt>

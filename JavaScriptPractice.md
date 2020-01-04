@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<body>
-
 <h2>Javascript practice!</h2>
 
 <p>Your name: <input type:"text" id="name">

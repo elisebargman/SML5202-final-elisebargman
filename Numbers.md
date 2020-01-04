@@ -27,14 +27,10 @@
 
 <button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,100)">Integer, 0 to 100</button>
 <p id="demo"></p>
-<script>
-function getRndInteger(min, max) {
-  return Math.floor(Math.random() * (max - min)) + min;
-}
-</script>
 
 <button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,2500)">Integer, 0 to 2,500</button>
 <p id="demo"></p>
+
 <script>
 function getRndInteger(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;

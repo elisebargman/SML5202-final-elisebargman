@@ -31,9 +31,4 @@
 <button onclick="document.getElementById('demo2').innerHTML = getRndInteger(0,2500)">Integer, 0 to 2,500</button>
 <p id="demo2"></p>
 
-<script>
-function getRndInteger(min, max) {
-  return Math.floor(Math.random() * (max - min)) + min;
-}</script>
-
 <iframe src="http://h5p.org/h5p/embed/689531" width="400" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>

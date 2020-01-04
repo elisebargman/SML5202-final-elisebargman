@@ -6,11 +6,11 @@
 </p>
   </div>
   <div class="column">
-    <p>This website is designed as a short, intermediate-level refresher to the Spanish language, with a focus on Latin American dialects. In particular, it is designed for native English speakers who studied Spanish in school, but now need help recalling everyday words and phrases due to a period of disuse. This site will include a range of multimedia activities to help you become familiar with Latin American Spanish dialects (see left), recall key vocabulary terms, practice saying numbers, and practice your Spanish reading comprehension skills. On the final page, you'll find a list of seven fun ways to continue on your Spanish learning journey, including media recommendations like the podcast <i>News in Slow Spanish</i> which are designed specifically for Spanish language learners. You will also find some helpful tools there, such as Google Translate. Feel free to jump around the website as you see fit, but activities are designed to be completed from top to bottom on a page, and pages are organized from left to right on the navigation bar. </p>
+    <p>This website is designed as a short, intermediate-level refresher to the Spanish language, with a focus on Latin American dialects. In particular, it is designed for native English speakers who studied Spanish in school, but now need help recalling everyday words and phrases due to a period of disuse. This site includes a range of multimedia activities to help you become familiar with Latin American Spanish dialects (see left), recall key vocabulary terms & easily refer back to them, practice saying numbers, and improve your Spanish reading comprehension skills. On the final page, you'll find a list of seven fun ways to continue on your Spanish learning journey, including media recommendations like the podcast <i>News in Slow Spanish</i>, which is designed specifically for Spanish language learners. You will also find some helpful tools there, such as Google Translate. Feel free to jump around the website as you see fit, but activities are generally designed to be completed from top to bottom on a page, and pages are organized from left to right on the navigation bar. </p>
   </div>
   </div>
 
 <h2>Statement of accessibility</h2>
 <p> 
-This website was tested for accessibility using WAVE (the Website Accessibility Evaluation Tool)
+This website was tested for accessibility using WAVE (the Website Accessibility Evaluation Tool).
 <p>

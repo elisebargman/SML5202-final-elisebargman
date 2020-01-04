@@ -31,6 +31,8 @@
 <button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,2500)">Integer, 0 to 2,500</button>
 <p id="demo"></p>
 
+<h6>Random Number Output:</h6>
+
 <script>
 function getRndInteger(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;

@@ -25,15 +25,17 @@
 <h3>Saying Numbers</h3>
 <p> click the button for the kinds of numbers you need to practice, and then try saying each of them out loud</p>
 
-<button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,100)">Integer, 0 to 100</button>
-<p id="demo"></p>
 <script>
 function getRndInteger(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
 }</script>
 
+<button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,100)">Integer, 0 to 100</button>
+<p id="demo"></p>
+
 <button onclick="document.getElementById('demo2').innerHTML = getRndInteger(0,2500)">Integer, 0 to 2,500</button>
 <p id="demo2"></p>
+
 <script>
 function getRndInteger(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;

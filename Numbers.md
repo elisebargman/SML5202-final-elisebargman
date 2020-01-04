@@ -23,7 +23,7 @@
 <iframe src="https://h5p.org/h5p/embed/689524" width="1090" height="842" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <h3>Saying Numbers</h3>
-<p> click the button for the kind of number you want to practice, and then record yourself saying it out loud </p>
+<p> click the button for the kinds of numbers you need to practice, and then try saying each of them out loud</p>
 
 <button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,100)">Integer, 0 to 100</button>
 <p id="demo"></p>
@@ -38,7 +38,3 @@ function getRndInteger(min, max) {
 function getRndInteger(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
 }</script>
-
-
-<iframe src="https://h5p.org/h5p/embed/689531" width="600" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-

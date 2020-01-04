@@ -27,17 +27,18 @@
 
 <button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,100)">Integer, 0 to 100</button>
 <p id="demo"></p>
-
-<button onclick="document.getElementById('demo').innerHTML = getRndInteger(0,2500)">Integer, 0 to 2,500</button>
-<p id="demo"></p>
-
-<h6>Random Number Output:</h6>
-
 <script>
 function getRndInteger(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
-}
-</script>
+}</script>
+
+<button onclick="document.getElementById('demo2').innerHTML = getRndInteger(0,2500)">Integer, 0 to 2,500</button>
+<p id="demo2"></p>
+<script>
+function getRndInteger(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}</script>
+
 
 <iframe src="https://h5p.org/h5p/embed/689531" width="600" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 

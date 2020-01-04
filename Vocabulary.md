@@ -1,5 +1,5 @@
-<h1>HTML Part 2 Homework</h1>
-<h3>Today is the 15<sup>th</sup> of October, 2019</h3>
+<h1>Essential Spanish Vocabulary</h1>
+<h3>Here is an expandable list of the most important words and phrases in Spanish, for your review and reference. This list was adapted directly from an article titled <a href="https://www.mosalingua.com/en/spanish-vocabulary-lists-by-topic/#basic-spanish-vocabulary-greetings"> Spanish Vocabulary Lists by Topic</a> by the language learning website MosaLingua </h3>
 <br>
 
 

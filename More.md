@@ -1,7 +1,7 @@
 <h1>More Resources</h1>
 
 
-<p>This page is designed to send you on your way with all the resources you'll need to continue your language learning journey, including translation tools, top-rated language learning apps, and media recommendations to immerse yourself in the language and culture.</p>
+<p>This page is designed to send you on your way with all the resources you'll need to continue your Spanish language journey, including dictionaries and translation tools, top-rated language learning apps, and media recommendations to immerse yourself in other cultures.</p>
 
 <section>
 	<h3>Tools & Resources</h3>

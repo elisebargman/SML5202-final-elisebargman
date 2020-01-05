@@ -10,7 +10,7 @@
   </div>
   </div>
 
-<h2>Philosophy</h2>
+<h2>Pedagogical Stategy</h2>
 <p> Studies have shown that people who have studied a language in the past tend to lose much of their working knowledge of said language if they don't use it often enough. However, they are much better positioned to re-learn the language than somebody who has never studied it before, and can do so fairly quickly. The activities on this site were designed with this in mind, helping users refresh their memory and quickly work their way up from simple vocabulary recall to reading comprehension.
 <br>
 <br><b>Sources:</b>

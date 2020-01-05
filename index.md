@@ -10,7 +10,7 @@
   </div>
   </div>
 
-<h2>Statement of accessibility</h2>
+<h4>Statement of accessibility</h4>
 <p> 
 This website was tested for accessibility using WAVE (the Website Accessibility Evaluation Tool).
 <p>

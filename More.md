@@ -2,20 +2,20 @@
 
 
 <p>This page is designed to send you on your way with the resources you'll need to continue your Spanish language journey, including dictionaries and translation tools, top-rated language learning apps, and media recommendations to immerse yourself in other cultures.</p>
-<br>
-<section>
+
 	<h3>Tools & Resources</h3>
 <ul>
+	<h3>Tools & Resources:</h3>
   <li><a href="https://translate.google.com/">Google Translate</a></li>
   <li><a href="https://studyspanish.com/typing-spanish-accents">Typing the Spanish alphabet</a></li>
   <li><a href="https://www.asihablamos.com/">AsiHablamos</a> (a dictionary of slang terms, similar to Urban Dictionary)</li>
   <li><a href="https://www.rae.es/recursos/diccionarios">Royal Spanish Academy Dictionary</a> (take <a href="https://www.nytimes.com/2010/11/26/world/europe/26spanish.html">some of what they say</a> with a grain of salt, though)</li>
 </ul>
-</section>
+
 <br>
-<section>
-	<h3>Seven fun ways to continue practicing your Spanish:</h3>
+
 <ol>
+	<h3>Seven fun ways to continue practicing your Spanish:</h3>
 	<li>Find a <a href="https://www.fluentin3months.com/pen-pals/">language-learning pen pal</a></li>
 	<li>Stay up-to-date with Latin Americannewspapers, like <a href="https://www.univision.com">Univision</a> and <a href="https://www.eltiempo.com/">El Tiempo</a></strong></li>
 	<li>Use a <a href="https://www.cnet.com/news/best-language-learning-apps-become%20fluent/">well-reviewed</a> mobile language learning app, such as <a href="https://www.duolingo.com/">Duolinguo</a>, <a href="https://www.babbel.com/">Babbel</a>, or <a href="https://www.memrise.com/">Memrise</a></li>
@@ -24,7 +24,6 @@
 	<li>Watch some great Spanish television, <a href="https://spanishlandschool.com/best-spanish-tv-shows/">written with language learners in mind</a></li>
 	<li>Go down a "Wikipedia en Español" rabbit hole... see below to get started!</li>
 </ol>
-</section>
 
 <br>
 

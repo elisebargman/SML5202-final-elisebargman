@@ -90,5 +90,5 @@ form.addEventListener('submit', handleSubmit);
 <hr>
 <div style="clear:both;"></div>
 <div>
-	<p style="font-size: 86%;">Credit: The code for this application is derived from an excellent online tutorial by Ayooluwa Isaiah, a Web Technologies Software Developer based in Lagos, Nigeria. The tutorial can be followed <a href="https://freshman.tech/wikipedia-javascript/">here</a>.</p></div>
+	<p style="font-size: 86%;">Credit: The code for this application is derived from an excellent online tutorial by Ayooluwa Isaiah, a Web Technologies Software Developer based in Lagos, Nigeria. <a href="https://freshman.tech/wikipedia-javascript/">The tutorial can be followed here</a>.</p></div>
 

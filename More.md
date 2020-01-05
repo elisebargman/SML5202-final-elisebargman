@@ -12,7 +12,7 @@
   <li><a href="https://www.rae.es/recursos/diccionarios">Dictionaries of the Royal Spanish Academy</a> (take everything they say with a <a href="https://www.nytimes.com/2010/11/26/world/europe/26spanish.html">grain of salt</a>)</li>
 </ul>
 </section>
-
+<br>
 <section>
 	<h3>Seven fun ways to continue practicing your Spanish:</h3>
 <ol>

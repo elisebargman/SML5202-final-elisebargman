@@ -3,7 +3,7 @@
 <p>Just like in English, the pattern for saying numbers out loud in Spanish isn't entirely logical, but it is predictable. Here's how to learn the pattern:</p>
 
 <ol>
- <li>Study up on the pattern using any/all of the following sources:
+ <li>Study up on numbers in Spanish using any/all of the following language learning sources:
   <ul>
    <li><a href="https://www.fluentin3months.com/spanish-numbers/">Fluent in 3 Months</a></li>
    <li><a href="https://www.mezzoguild.com/spanish-numbers/">The Mezzofanti Guild</a></li>

@@ -4,7 +4,7 @@
 <p>This page is designed to send you on your way with the resources you'll need to continue your Spanish language journey, including dictionaries and translation tools, top-rated language learning apps, and media recommendations to immerse yourself in other cultures.</p>
 
 <ul>
-	<h3>Tools & Resources:</h3>
+	<h2>Tools & Resources:</h2>
   <li><a href="https://translate.google.com/">Google Translate</a></li>
   <li><a href="https://studyspanish.com/typing-spanish-accents">Typing the Spanish alphabet</a></li>
   <li><a href="https://www.asihablamos.com/">AsiHablamos</a> (a dictionary of slang terms, similar to Urban Dictionary)</li>
@@ -12,7 +12,7 @@
 </ul>
 <br>
 <ol>
-	<h3>Seven fun ways to continue practicing your Spanish:</h3>
+	<h2>Seven fun ways to continue practicing your Spanish:</h2>
 	<li>Find a <a href="https://www.fluentin3months.com/pen-pals/">language-learning pen pal</a></li>
 	<li>Stay up-to-date with Latin Americannewspapers, like <a href="https://www.univision.com">Univision</a> and <a href="https://www.eltiempo.com/">El Tiempo</a></li>
 	<li>Use a <a href="https://www.cnet.com/news/best-language-learning-apps-become%20fluent/">well-reviewed</a> mobile language learning app, such as <a href="https://www.duolingo.com/">Duolinguo</a>, <a href="https://www.babbel.com/">Babbel</a>, or <a href="https://www.memrise.com/">Memrise</a></li>

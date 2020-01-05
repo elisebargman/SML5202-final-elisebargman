@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: Speedy Spanish Refresh
 description: Final project for SML5202, by Elise Bargman Fall 2019
 github: 
-  About: About.html
   Vocabulary: Vocabulary.html
   Numbers: Numbers.html
   Reading: Reading.html

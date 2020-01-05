@@ -12,9 +12,9 @@
 
 <h2>Philosophy</h2>
 <p> Studies have shown that people who have studied a language in the past tend to lose much of their working knowledge of said language if they don't use it often enough. However, they are much better positioned to re-learn the language than somebody who has never studied it before, and can do so fairly quickly. The activities on this site were designed with this in mind, helping users refresh their memory and quickly work their way up from simple vocabulary recall to reading comprehension.
-
-<br><strong>Sources:</strong>
-<br><a href="https://academic.oup.com/applij/article-abstract/21/3/333/154109">de Bot & Stoessel 2000;</a> <a href="https://journals.sagepub.com/doi/full/10.1111/j.1467-9280.2009.02407.x">Bowers et al. 2009</a>
+<br>
+<br><b>Sources:</b>
+<br><a href="https://academic.oup.com/applij/article-abstract/21/3/333/154109">de Bot & Stoessel 2000</a>; <a href="https://journals.sagepub.com/doi/full/10.1111/j.1467-9280.2009.02407.x">Bowers et al. 2009</a>
 </p> 
 
 <h2>Statement of accessibility</h2>

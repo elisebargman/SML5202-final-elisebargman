@@ -3,7 +3,6 @@
 
 <p>This page is designed to send you on your way with the resources you'll need to continue your Spanish language journey, including dictionaries and translation tools, top-rated language learning apps, and media recommendations to immerse yourself in other cultures.</p>
 
-	<h3>Tools & Resources</h3>
 <ul>
 	<h3>Tools & Resources:</h3>
   <li><a href="https://translate.google.com/">Google Translate</a></li>

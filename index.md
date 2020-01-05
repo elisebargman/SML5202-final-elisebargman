@@ -12,5 +12,5 @@
 
 <h3>Statement of accessibility</h3>
 <p> 
-This website was tested for accessibility using WAVE (the Website Accessibility Evaluation Tool).
+This website was tested for accessibility using WAVE (the Website Accessibility Evaluation Tool)
 <p>

@@ -4,12 +4,12 @@
 <p>This page is designed to send you on your way with all the resources you'll need to continue your language learning journey, including translation tools, top-rated language learning apps, and media recommendations to immerse yourself in the language and culture.</p>
 
 <section>
-	<h5>Tools & Resources</h5>
+	<h3>Tools & Resources</h3>
 <ul>
   <li><a href="https://translate.google.com/">Google Translate</a></li>
-  <li><a href="https://www.asihablamos.com/">AsiHablamos</a> (a dictionary of slang terms, similar to Urban Dictionary)</li>
-  <li><a href="https://www.rae.es/recursos/diccionarios">Dictionaries of the Royal Spanish Academy</a> (but take everything they say with a <a href="https://www.nytimes.com/2010/11/26/world/europe/26spanish.html">grain of salt</a>)</li>
   <li><a href="https://studyspanish.com/typing-spanish-accents">Typing the Spanish alphabet</a></li>
+  <li><a href="https://www.asihablamos.com/">AsiHablamos</a> (a dictionary of slang terms, similar to Urban Dictionary)</li>
+  <li><a href="https://www.rae.es/recursos/diccionarios">Dictionaries of the Royal Spanish Academy</a> (take everything they say with a <a href="https://www.nytimes.com/2010/11/26/world/europe/26spanish.html">grain of salt</a>)</li>
 </ul>
 </section>
 
@@ -25,72 +25,6 @@
 	<li>Go down a "Wikipedia en Español" rabbit hole... see below to get started!</li>
 </ol>
 </section>
-
-
-<ul>
-  Best language learning applications, according to <a href="https://www.cnet.com/news/best-language-learning-apps-become fluent/">CNET</a>: 
-  <li><a href="https://www.duolingo.com/">Duolinguo</a></li>
-  <li><a href="https://www.babbel.com/">Babbel</a></li>
-  <li><a href="https://www.memrise.com/">Memrise</a></li>
-</ul>
-
-<ol>
-  Top ten ways to continue practicing your Spanish:
-  <li><a href="https://translate.google.com/">Google Translate</a></li>
-  <li><a href="https://studyspanish.com/typing-spanish-accents">Typing the Spanish alphabet</a></li>
-</ol>
-  
-<p>
-  
-Explore:
-https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol
-Wikipedia: Idioma Español
-
-https://www.newsinslowspanish.com/spanish-podcast
-News in Slow Spanish
-https://open.spotify.com/show/3DfaUnQ6qypI0qK7tGhp4A
-Find it on Spotify
-
-https://www.univision.com
-Univision
-https://digital.revisbarcelona.com/
-Revista Barcelona (Argentinian satire)
-https://www.eltiempo.com/
-El Tiempo (Colombia)
-
-https://www.ngenespanol.com/
-National Geographic en español
-https://www.seventeenenespanol.com/
-Seventeen en español
-https://www.gq.com.mx/
-GQ en español
-
-
-https://spanishlandschool.com/best-spanish-tv-shows/
-
-
-Resources:
-Google Translate
-Typing the Spanish alphabet
-
-Best language learning applications, according to CNET:
-Duolingo
-Babbel
-Memrise
-
-Explore:
-Wikipedia: Idioma Español
-News in Slow Spanish
-Find it on Spotify
-Univision
-Revista Barcelona (Argentinian satire)
-El Tiempo (Colombia)
-National Geographic en español
-Seventeen en español
-GQ en español
-
-
-</p>
 
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
@@ -119,7 +53,7 @@ GQ en español
 }
 
 function fetchResults(searchQuery) {
-	  const endpoint = `https://en.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=20&srsearch=${searchQuery}`;
+	  const endpoint = `https://es.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=20&srsearch=${searchQuery}`;
   	fetch(endpoint)
   		.then(response => response.json())
   		.then(data => {
@@ -134,7 +68,7 @@ function displayResults(results) {
   const searchResults = document.querySelector('.searchResults');
   searchResults.innerHTML = '';
   results.forEach(result => {
-  const url = encodeURI(`https://en.wikipedia.org/wiki/${result.title}`);
+  const url = encodeURI(`https://es.wikipedia.org/wiki/${result.title}`);
   
   searchResults.insertAdjacentHTML('beforeend',
   

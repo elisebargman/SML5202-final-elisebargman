@@ -1,12 +1,12 @@
 <h1>Essential Spanish Vocabulary</h1>
 
-<p>Here is an expandable list of the most important words and phrases in Spanish, for your review and reference. This list was adapted directly from an article titled <a href="https://www.mosalingua.com/en/spanish-vocabulary-lists-by-topic/#basic-spanish-vocabulary-greetings"> Spanish Vocabulary Lists by Topic</a> by the language learning website MosaLingua.
+<p>Here is an expandable list of the most important words and phrases in Spanish, for your review and reference. This list was adapted directly from an article titled <a href="https://www.mosalingua.com/en/spanish-vocabulary-lists-by-topic/#basic-spanish-vocabulary-greetings">Spanish Vocabulary Lists by Topic</a> by the language learning website MosaLingua.
   
   Several sections also have quizzes to test your knowledge:
   <ul>
-  <li>Clothing</li>
-  <li>Dates and Times</li>
-  <li>Verbs</li>
+  <li><a href="https://elisebargman.github.io/SML5202-final-elisebargman/Ropa.html">Clothing</a></li>
+  <li><a href="https://elisebargman.github.io/SML5202-final-elisebargman/Calendar.html">Dates and Times</a></li>
+  <li><a href="https://elisebargman.github.io/SML5202-final-elisebargman/Verbs.html">Verb</a></li>
 </ul>
 </p>
 

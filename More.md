@@ -14,7 +14,7 @@
 <ol>
 	<h3>Seven fun ways to continue practicing your Spanish:</h3>
 	<li>Find a <a href="https://www.fluentin3months.com/pen-pals/">language-learning pen pal</a></li>
-	<li>Stay up-to-date with Latin Americannewspapers, like <a href="https://www.univision.com">Univision</a> and <a href="https://www.eltiempo.com/">El Tiempo</a></strong></li>
+	<li>Stay up-to-date with Latin Americannewspapers, like <a href="https://www.univision.com">Univision</a> and <a href="https://www.eltiempo.com/">El Tiempo</a></li>
 	<li>Use a <a href="https://www.cnet.com/news/best-language-learning-apps-become%20fluent/">well-reviewed</a> mobile language learning app, such as <a href="https://www.duolingo.com/">Duolinguo</a>, <a href="https://www.babbel.com/">Babbel</a>, or <a href="https://www.memrise.com/">Memrise</a></li>
 	<li>Listen to the <a href="https://www.newsinslowspanish.com/spanish-podcast">News in Slow Spanish</a> podcast on <a href="https://open.spotify.com/show/3DfaUnQ6qypI0qK7tGhp4A">Spotify</a></li>
 	<li>Read the Spanish versions of your favorite magazines, like <a href="https://www.ngenespanol.com/">National Geographic</a> and <a href="https://www.seventeenenespanol.com/">Seventeen</a></li>

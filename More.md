@@ -27,8 +27,8 @@
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
-	<label for="searchForm-input" style="color: white;">busca</label>
-        <input type="search" class="searchForm-input">
+	<label for="wikiSearch" style="color: white;">busca</label>
+        <input type="search" class="searchForm-input" id="wikiSearch">
         <button type="submit" class="icon searchIcon">
           <img src="https://image.ibb.co/cpG8zk/search.png" alt="Magnifying Glass Icon">
         </button>

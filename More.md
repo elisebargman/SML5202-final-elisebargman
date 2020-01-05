@@ -4,6 +4,16 @@
 <p>This page is designed to send you on your way with all the resources you'll need to continue your language learning journey, including translation tools, top-rated language learning apps, and media recommendations to immerse yourself in the language and culture.</p>
 
 <section>
+	<h5>Tools & Resources</h5>
+<ul>
+  <li><a href="https://translate.google.com/">Google Translate</a></li>
+  <li><a href="https://www.asihablamos.com/">AsiHablamos</a> (a dictionary of slang terms, similar to Urban Dictionary)</li>
+  <li><a href="https://www.rae.es/recursos/diccionarios">Dictionaries of the Royal Spanish Academy</a> (but take everything they say with a <a href="https://www.nytimes.com/2010/11/26/world/europe/26spanish.html">grain of salt</a>)</li>
+  <li><a href="https://studyspanish.com/typing-spanish-accents">Typing the Spanish alphabet</a></li>
+</ul>
+</section>
+
+<section>
 	<h3>Seven fun ways to continue practicing your Spanish:</h3>
 <ol>
 	<li>Find a <a href="https://www.fluentin3months.com/pen-pals/">language-learning pen pal</a></li>
@@ -16,11 +26,6 @@
 </ol>
 </section>
 
-<ul>
-  Resources:
-  <li><a href="https://translate.google.com/">Google Translate</a></li>
-  <li><a href="https://studyspanish.com/typing-spanish-accents">Typing the Spanish alphabet</a></li>
-</ul>
 
 <ul>
   Best language learning applications, according to <a href="https://www.cnet.com/news/best-language-learning-apps-become fluent/">CNET</a>: 

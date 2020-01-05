@@ -10,7 +10,7 @@
   <li><a href="https://www.asihablamos.com/">AsiHablamos</a> (a dictionary of slang terms, similar to Urban Dictionary)</li>
   <li><a href="https://www.rae.es/recursos/diccionarios">Royal Spanish Academy Dictionary</a> (take <a href="https://www.nytimes.com/2010/11/26/world/europe/26spanish.html">some of what they say</a> with a grain of salt, though)</li>
 </ul>
-
+<br>
 <ol>
 	<h3>Seven fun ways to continue practicing your Spanish:</h3>
 	<li>Find a <a href="https://www.fluentin3months.com/pen-pals/">language-learning pen pal</a></li>

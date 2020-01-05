@@ -16,6 +16,10 @@ body {
     font-family: 'Karla', sans-serif;
 }
 
+.main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6{
+    color: #880E4F;
+}
+
 a {
     color: #880E4F;
     text-decoration: none;
@@ -72,6 +76,16 @@ page-header {
   .column {
     width: 100%;
     }
+}
+
+color: #424242;
+
+.site-footer{
+    color: #607D8B;
+}
+
+.site-footer-credits{
+    color: #607D8B;
 }
 
 /** Wikipedia Search Styles **/

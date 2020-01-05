@@ -19,10 +19,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Psvj8s4_yHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3>Number Writing</h3>
+<h2>Number Writing</h2>
 <iframe src="https://h5p.org/h5p/embed/689524" width="1090" height="842" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h3>Saying Numbers</h3>
+<h2>Saying Numbers</h2>
 <p> Click the buttons for the ranges of numbers that you need to practice with, and then try saying them out loud</p>
 
 <button onclick="document.getElementById('demo4').innerHTML = getRndInteger(1800,2100)">Years</button>
